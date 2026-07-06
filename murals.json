@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "title": "Absolute Equality",
+    "title": "Absolute Equality number one ",
     "address": "22nd & The Strand",
     "lat": 29.3017,
     "lng": -94.7985,
     "artist": "Reginald C. Adams",
     "bio": "Houston-based artist known for large-scale public works exploring justice and identity. Commissioned through the Juneteenth Legacy Project.",
     "website": "https://www.reginaldc-adams.com",
-    "year": 2021,
+    "year": "2021",
     "desc": "Covering 5,000 sq ft, this landmark mural honors Galveston as the Birthplace of Juneteenth.",
-    "img": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1_1783374420543.jpg",
     "artistImg": "",
     "featured": true,
     "visited": false
