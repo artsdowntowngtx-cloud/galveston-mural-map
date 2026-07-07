@@ -23,10 +23,10 @@
     "lng": -94.7975,
     "artist": "Gabriel Prusmak",
     "bio": "Local Galveston artist celebrated for colorful murals blending coastal imagery with bold typography.",
-    "website": "",
-    "year": 2016,
+    "website": "https://gabrielprusmack.com/",
+    "year": "2016",
     "desc": "Painted in vintage postcard style, each letter highlights a different facet of Galveston.",
-    "img": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_2_1783434595870.jpg",
     "artistImg": "",
     "featured": false,
     "visited": false
