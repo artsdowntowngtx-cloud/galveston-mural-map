@@ -94,21 +94,5 @@
     "artistImg": "",
     "featured": false,
     "visited": false
-  },
-  {
-    "id": 7,
-    "title": "Do You Hear the Sound of Galveston?",
-    "address": "28th & Seawall Blvd",
-    "lat": 29.2967,
-    "lng": -94.794,
-    "artist": "Sasha Primo",
-    "bio": "Latin American artist whose large-scale works engage with local history and architecture.",
-    "website": "https://sashaprimo.com",
-    "year": 2024,
-    "desc": "A 20×50ft mural honoring conductor Willard Dickerson, who broke racial barriers in Galveston schools.",
-    "img": "",
-    "artistImg": "",
-    "featured": false,
-    "visited": false
   }
 ]
