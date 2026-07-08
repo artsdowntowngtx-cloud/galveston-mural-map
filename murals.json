@@ -46,5 +46,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1783545637234,
+    "title": "I Love Galveston Mural",
+    "address": "24th and The Strand",
+    "lat": 29.307417,
+    "lng": -94.795795,
+    "artist": "Gabriel Prusmack ",
+    "bio": "Gabriel Prusmack is a Texas muralist based in Galveston whose work is known for its vibrant color, playful imagination, and large-scale public art. His murals bring energy to everyday spaces and help turn city walls into joyful landmarks.",
+    "website": "https://gabrielprusmack.com/",
+    "year": "2018",
+    "desc": "The I Love Galveston mural at 24th and The Strand is a colorful celebration of island life. Filled with playful sea creatures and a bold red heart, it has become a fun photo stop that captures Galveston’s coastal charm and community pride.",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1783545637234.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1783545637234.jpg",
+    "featured": false,
+    "visited": false
   }
 ]
