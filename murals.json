@@ -78,5 +78,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1783546393522.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1783547082657,
+    "title": "Mermaids",
+    "address": "2121 Market St Ste 111",
+    "lat": 29.305426,
+    "lng": 94.791843,
+    "artist": "Mistress Mary ",
+    "bio": "",
+    "website": "",
+    "year": "2025",
+    "desc": "Mermaid Mural at MarMo Plaza brings a dreamy, coastal energy to Market Street. Featuring mystical mermaid imagery, the mural reflects Galveston’s connection to the Gulf, imagination, and creative self-expression",
+    "img": "",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
