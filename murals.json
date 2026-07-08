@@ -62,5 +62,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1783545637234.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1783546393522,
+    "title": "Stay Beach Box Mural",
+    "address": "25th and Market Street",
+    "lat": 29.305517,
+    "lng": -94.796092,
+    "artist": "Carlos Villasana ",
+    "bio": "Carlos Villasana, also known as Loz Paints, is a Galveston-based muralist and art educator. His work brings bold color, public art, and creative energy to local spaces, transforming walls and surfaces into eye-catching pieces that reflect the spirit of the island.",
+    "website": "https://www.facebook.com/carlos.villasana.7/photos/",
+    "year": "2025",
+    "desc": "Stay Beach Box Mural brings a bright coastal splash to 25th and Market Street. Painted in spray paint, the mural adds color and island personality to the side of Stay Beach Box and helps welcome visitors into Galveston’s growing public art scene.",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1783546393522.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1783546393522.jpg",
+    "featured": false,
+    "visited": false
   }
 ]
