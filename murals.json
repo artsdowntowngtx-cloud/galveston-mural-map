@@ -64,22 +64,6 @@
     "visited": false
   },
   {
-    "id": 5,
-    "title": "Huli Huli Hut Mural",
-    "address": "25th & Post Office St",
-    "lat": 29.3006,
-    "lng": -94.797,
-    "artist": "Justin Lopez",
-    "bio": "Galveston-based muralist whose tropical coastal style brings warmth and energy to island businesses.",
-    "website": "",
-    "year": 2023,
-    "desc": "A surfer gazing over the Gulf in bold tropical colors — pure island spirit.",
-    "img": "",
-    "artistImg": "",
-    "featured": false,
-    "visited": false
-  },
-  {
     "id": 6,
     "title": "Stay Beach Box Mural",
     "address": "25th & Market St",
