@@ -30,5 +30,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1783544590351.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1783545233123,
+    "title": "Postoffice Street Mural Collection",
+    "address": "22nd And Postoffice Street",
+    "lat": 29.304483,
+    "lng": -94.792317,
+    "artist": "Various Artists ",
+    "bio": "",
+    "website": "",
+    "year": "2017",
+    "desc": "The Postoffice Mural Collection began as Galveston’s Kindness Mural, a colorful reminder to lead with compassion and community spirit. Over time, it has evolved into a quarterly rotating mural project where local and visiting artists showcase their creativity during ArtWalk. Now led by local artist Justin Lopez, the collection continues to bring fresh energy, new voices, and ever-changing public art to Postoffice Street.",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1783545233123.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
