@@ -94,5 +94,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1783543543516,
+    "title": "equality 2",
+    "address": "2201 The Strand, Galveston, TX 77550",
+    "lat": 29.307157,
+    "lng": -94.79339,
+    "artist": "Unknown",
+    "bio": "",
+    "website": "",
+    "year": 2026,
+    "desc": "",
+    "img": "",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
