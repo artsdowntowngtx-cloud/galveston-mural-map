@@ -14,5 +14,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1783543543516_1783544167577.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1783544590351,
+    "title": "Greetings from Galveston",
+    "address": "2302 The Strand, Galveston, TX 77550",
+    "lat": 29.307393,
+    "lng": -94.794674,
+    "artist": "Gabriel Prusmack ",
+    "bio": "Gabriel Prusmack is a Galveston-based artist known for his bright colors, bold designs, and joyful public art. His work often blends playful imagery, identity, and island spirit, helping bring color and creativity to public spaces throughout Galveston.",
+    "website": "https://gabrielprusmack.com/",
+    "year": "2016",
+    "desc": "Greetings From Galveston mural is one of the island’s most recognizable photo spots. Painted in the style of a vintage postcard, the mural welcomes visitors with colorful letters that celebrate Galveston’s beaches, landmarks, history, and coastal character.",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1783544590351.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1783544590351.jpg",
+    "featured": false,
+    "visited": false
   }
 ]
