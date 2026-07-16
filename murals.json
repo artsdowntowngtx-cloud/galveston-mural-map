@@ -94,5 +94,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784214455735,
+    "title": "Market Street Station",
+    "address": "2310 Market Street Galveston, TX 77550 ",
+    "lat": 29.3049,
+    "lng": -947930,
+    "artist": "Justin Lopez",
+    "bio": "Justin Lopez is a Galveston-based mural artist known for creating vibrant, detailed artwork inspired by the landscapes, wildlife, and coastal character of the Gulf Coast. Raised in Galveston, his connection to the island’s natural environment strongly influences his use of bold colors and recognizable local imagery.",
+    "website": "https://www.facebook.com/artwrkjlopez/",
+    "year": "2024 ",
+    "desc": "The Market Station mural brings the energy of the venue to life through colorful imagery featuring a vintage streetcar, billiard balls and other playful details. The mural celebrates the building’s connection to historic downtown.",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784214455735.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784214455735.jpg",
+    "featured": false,
+    "visited": false
   }
 ]
