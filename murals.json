@@ -174,5 +174,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784218810344,
+    "title": "Chromatic Carriage",
+    "address": "513 23rd St",
+    "lat": 29.301321,
+    "lng": -95.485121,
+    "artist": "Justin Lopez",
+    "bio": "",
+    "website": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/artwrkjlopez/&ved=2ahUKEwjP8OrgzNeVAxWGgGoFHQxqEpIQFnoECBwQAQ&usg=AOvVaw0ln7VgzNXFHalQYy8VBMVa",
+    "year": "2025",
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784218810344.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
