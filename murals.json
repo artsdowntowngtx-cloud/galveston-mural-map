@@ -142,5 +142,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784216154480.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784216585202,
+    "title": "Huli Huli Hut",
+    "address": "504 25th Street Galveston, TX 77550 ",
+    "lat": 29.3047,
+    "lng": -94.7967,
+    "artist": "Justin Lopez ",
+    "bio": "Justin Lopez is a Galveston-based mural artist known for creating colorful, large-scale works inspired by the island’s coastal culture, wildlife and local businesses. His murals can be found throughout Galveston and often combine bold colors, detailed imagery and a strong sense of place.",
+    "website": "https://www.facebook.com/artwrkjlopez/",
+    "year": "2025",
+    "desc": "Created for Huli Huli Hut’s new location at 504 25th Street, the mural captures the restaurant’s lively tropical atmosphere with bright colors and playful island-inspired imagery.",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784216585202.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784216585202.jpg",
+    "featured": false,
+    "visited": false
   }
 ]
