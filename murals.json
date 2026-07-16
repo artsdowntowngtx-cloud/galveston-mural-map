@@ -110,5 +110,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784214455735.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784214994489,
+    "title": "Star Drug Store Coca Cola  Mural",
+    "address": "510 23rd Street Galveston, TX 77550 ",
+    "lat": 29.303889,
+    "lng": -94.793056,
+    "artist": "Unknown ",
+    "bio": "",
+    "website": "",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784214994489.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
