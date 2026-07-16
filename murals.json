@@ -160,17 +160,17 @@
     "visited": false
   },
   {
-    "id": 1784217434502,
-    "title": "Surfer Greeting from Galveston",
+    "id": 1784217652264,
+    "title": "Surfer Greetings from Galveston",
     "address": "407 25th St, Galveston, TX 77550",
-    "lat": 29.3033,
-    "lng": -94.7946,
+    "lat": 29.3044656,
+    "lng": -94.7962351,
     "artist": "Carlos Villasana",
     "bio": "",
     "website": "https://www.linkedin.com/in/carlos-villasana-994418301",
-    "year": "2026",
+    "year": 2026,
     "desc": "",
-    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784217434502_1784217480297.jpg",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784217652264.jpg",
     "artistImg": "",
     "featured": false,
     "visited": false
