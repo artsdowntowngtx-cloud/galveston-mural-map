@@ -126,5 +126,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784216154480,
+    "title": "Beachy Vibes Only",
+    "address": "2416 Postoffice Street Galveston, TX 77550 ",
+    "lat": 29.3029,
+    "lng": -947957,
+    "artist": "Whitney Hayden",
+    "bio": "Whitney Hayden is a Texas muralist and the founder of Murals by Whitney. She is known for creating colorful, uplifting and often interactive artwork for businesses, public spaces and private clients. Her murals frequently feature playful imagery, bright colors and positive messages designed to bring joy to the community and encourage visitors to stop and take photographs.",
+    "website": "https://whitneyhayden.com/",
+    "year": 2026,
+    "desc": "The “Beachy Vibes Only” mural celebrates Galveston’s relaxed island spirit with bright colors and playful coastal imagery. Created by Whitney Hayden, the mural provides a cheerful and memorable photo opportunity for visitors exploring downtown Galveston. It is one of two murals Hayden created at the former Texas Tail Distillery.",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784216154480.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784216154480.jpg",
+    "featured": false,
+    "visited": false
   }
 ]
