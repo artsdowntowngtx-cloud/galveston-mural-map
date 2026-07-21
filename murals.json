@@ -190,5 +190,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784664257874,
+    "title": "Public and Cruise Parking",
+    "address": "150 25th St",
+    "lat": 29.3032,
+    "lng": 94.7925,
+    "artist": "Gabriel Prusmack",
+    "bio": "",
+    "website": "",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784664257874.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
