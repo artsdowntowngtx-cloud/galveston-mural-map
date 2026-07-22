@@ -222,5 +222,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784743774840,
+    "title": "The Tucker Lodge",
+    "address": "624 25th St, Galveston, TX 77550",
+    "lat": 29.30325,
+    "lng": -94.79374,
+    "artist": "Unknown",
+    "bio": "",
+    "website": "",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784743774840.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
