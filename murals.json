@@ -168,10 +168,10 @@
     "artist": "Carlos Villasana",
     "bio": "",
     "website": "https://www.linkedin.com/in/carlos-villasana-994418301",
-    "year": 2026,
+    "year": "2026",
     "desc": "",
     "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784217652264.jpg",
-    "artistImg": "",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784217652264_1784748492259.jpg",
     "featured": false,
     "visited": false
   },
@@ -203,7 +203,7 @@
     "year": "2026",
     "desc": "",
     "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784739531692.jpg",
-    "artistImg": "",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784739531692_1784748476474.jpg",
     "featured": false,
     "visited": false
   },
