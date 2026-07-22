@@ -192,22 +192,6 @@
     "visited": false
   },
   {
-    "id": 1784664811820,
-    "title": "Public & Cruise Parking",
-    "address": "146 Rosenberg St, Galveston, TX 77550",
-    "lat": 29.3032,
-    "lng": -94.7925,
-    "artist": "Gabriel Prusmack",
-    "bio": "",
-    "website": "https://gabrielprusmack.com",
-    "year": "2024",
-    "desc": "",
-    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784664811820.jpg",
-    "artistImg": "",
-    "featured": false,
-    "visited": false
-  },
-  {
     "id": 1784739531692,
     "title": "Abstraction",
     "address": "411 25th St, Galveston, TX 77550",
@@ -219,6 +203,22 @@
     "year": 2026,
     "desc": "",
     "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784739531692.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
+  },
+  {
+    "id": 1784743551588,
+    "title": "Public & Cruise Parking",
+    "address": "130 Rosenberg St, Galveston, TX 77550",
+    "lat": 29.3008,
+    "lng": -94.7947,
+    "artist": "Gabriel Prusmack",
+    "bio": "",
+    "website": "https://gabrielprusmack.com",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784743551588.jpg",
     "artistImg": "",
     "featured": false,
     "visited": false
