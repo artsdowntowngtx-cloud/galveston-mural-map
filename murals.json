@@ -238,5 +238,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784746903501,
+    "title": "Whispers of the Seen and Unseen",
+    "address": "252 26th St, Galveston, TX 77550",
+    "lat": 29.29824,
+    "lng": 94.79374,
+    "artist": "Galveston Youth and Nia Culture Center",
+    "bio": "",
+    "website": "https://niacultural.org",
+    "year": "2026",
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784746903501.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
