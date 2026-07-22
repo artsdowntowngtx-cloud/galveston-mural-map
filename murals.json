@@ -206,5 +206,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784739531692,
+    "title": "Abstraction",
+    "address": "411 25th St, Galveston, TX 77550",
+    "lat": 29.303126,
+    "lng": -94.79374,
+    "artist": "Carlos Villasana",
+    "bio": "",
+    "website": "https://www.instagram.com/loz_paints409/",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784739531692.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
