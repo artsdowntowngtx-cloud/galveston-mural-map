@@ -286,5 +286,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784831674477.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784832887567,
+    "title": "Naked Iguana Brewery",
+    "address": "1828 The Strand, Galveston, TX 77550",
+    "lat": 29.30867,
+    "lng": -94.789709,
+    "artist": "Unknown",
+    "bio": "",
+    "website": "",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784832887567.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
