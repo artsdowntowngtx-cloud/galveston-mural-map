@@ -270,5 +270,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784831104312.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784831674477,
+    "title": "Geometric",
+    "address": "2328 Avenue H, Galveston, TX 77550",
+    "lat": 29.4729119,
+    "lng": -95.0670359,
+    "artist": "Catherine Stroud",
+    "bio": "",
+    "website": "https://catherinestroud.com",
+    "year": "2024",
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784831674477.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784831674477.jpg",
+    "featured": false,
+    "visited": false
   }
 ]
