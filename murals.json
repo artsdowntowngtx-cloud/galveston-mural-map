@@ -254,5 +254,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784746903501_1784748653867.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784831104312,
+    "title": "Shrimp N'  Stuff Birds",
+    "address": "2506 Avenue H, Galveston, TX 77550",
+    "lat": 29.301417,
+    "lng": -94.796139,
+    "artist": "Gabriel Prusmack",
+    "bio": "",
+    "website": "https://gabrielprusmack.com",
+    "year": "2017",
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784831104312.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784831104312.jpg",
+    "featured": false,
+    "visited": false
   }
 ]
