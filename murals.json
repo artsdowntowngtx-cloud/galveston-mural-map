@@ -302,5 +302,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1784833150942,
+    "title": "Old Huli Huli Hut",
+    "address": "312 19th St, Galveston, TX 77550",
+    "lat": 29.307176,
+    "lng": -94.789339,
+    "artist": "Unknown",
+    "bio": "",
+    "website": "",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784833150942.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
