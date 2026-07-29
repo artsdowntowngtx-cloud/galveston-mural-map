@@ -201,7 +201,7 @@
     "bio": "",
     "website": "https://www.instagram.com/loz_paints409/",
     "year": "2026",
-    "desc": "An amazing mural spilling out of the alley ",
+    "desc": "",
     "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784739531692.jpg",
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1784739531692_1784748476474.jpg",
     "featured": false,
@@ -332,6 +332,22 @@
     "desc": "",
     "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1784835572561_1784835866630.jpg",
     "artistImg": "",
+    "featured": false,
+    "visited": false
+  },
+  {
+    "id": 1785356856630,
+    "title": "Hidden Koi Pond",
+    "address": "2213 Post Office Street, Galveston, TX 77550",
+    "lat": 29.304309,
+    "lng": -94.792826,
+    "artist": "Derek Anderson",
+    "bio": "",
+    "website": "https://www.facebook.com/DerekAndersonStudio/?locale=es_LA",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1785356856630.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1785356856630.jpg",
     "featured": false,
     "visited": false
   }
