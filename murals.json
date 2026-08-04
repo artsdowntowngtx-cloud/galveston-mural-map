@@ -350,5 +350,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1785356856630.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1785879839632,
+    "title": "Brewchachos",
+    "address": "2110 The Strand, Galveston, TX 77550",
+    "lat": 29.307924,
+    "lng": -94.792412,
+    "artist": "Harland Art",
+    "bio": "",
+    "website": "https://www.instagram.com/harlandart/",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1785879839632.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
