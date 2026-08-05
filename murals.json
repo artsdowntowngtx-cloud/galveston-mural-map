@@ -382,5 +382,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1785956651087,
+    "title": "Hazey Daze",
+    "address": "2104 Strand Street Galveston, Texas 77550",
+    "lat": 29.307781,
+    "lng": -94.79216,
+    "artist": "Derek Anderson",
+    "bio": "",
+    "website": "https://www.facebook.com/DerekAndersonStudio/?locale=es_LA",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1785956651087.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
