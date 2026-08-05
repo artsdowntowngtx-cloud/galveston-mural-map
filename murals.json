@@ -366,5 +366,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1785955305251,
+    "title": "Galveston Archways",
+    "address": "510 23rd Street Galveston, TX 77550 ",
+    "lat": 29.303889,
+    "lng": -94.793056,
+    "artist": "Unknown",
+    "bio": "",
+    "website": "",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1785955305251.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
