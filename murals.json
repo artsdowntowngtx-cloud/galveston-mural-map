@@ -262,7 +262,7 @@
     "lat": 29.301417,
     "lng": -94.796139,
     "artist": "Gabriel Prusmack",
-    "bio": "",
+    "bio": "Gabriel Prusmack is a Galveston-born artist and muralist known for his vibrant, graffiti-influenced work created with aerosol, stencils, and bold color. His murals and mixed-media pieces often explore joy, freedom, nature, and identity, bringing a playful and recognizable energy to public spaces throughout Galveston and beyond.",
     "website": "https://gabrielprusmack.com",
     "year": "2017",
     "desc": "",
@@ -396,6 +396,22 @@
     "desc": "",
     "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1785956651087.jpg",
     "artistImg": "",
+    "featured": false,
+    "visited": false
+  },
+  {
+    "id": 1787604784989,
+    "title": "The Grand 1894 Opera House alley wall",
+    "address": "2020 Postoffice Street Galveston, TX 77550 ",
+    "lat": 29.30585,
+    "lng": -94.7906,
+    "artist": "Sunny Delipsey",
+    "bio": "She is a Texas mural artist who originally painted the mural on the back of The Grand 1894 Opera House in 1994 and later returned to Galveston to recreate it after restoration work exposed the historic brick wall.",
+    "website": "",
+    "year": "2016 refreshed originally painted in 1994",
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1787604784989.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1787604784989.jpg",
     "featured": false,
     "visited": false
   }
