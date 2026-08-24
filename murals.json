@@ -462,5 +462,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1787609852172.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1787610920237,
+    "title": "106 years of Mardi Gras Mural",
+    "address": " 312 19th St, Galveston, TX 77550",
+    "lat": 29.3079,
+    "lng": -94.7879,
+    "artist": "Gary Holman",
+    "bio": "Gary Holman was a Texas-based artist and painter known for his murals, portraits, sculptures, and custom wood carvings",
+    "website": "",
+    "year": 2026,
+    "desc": "At this location, visitors can discover multiple murals that add color, character, and creativity to the surrounding downtown area.",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1787610920237.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1787610920237.jpg",
+    "featured": false,
+    "visited": false
   }
 ]
