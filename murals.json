@@ -446,5 +446,21 @@
     "artistImg": "",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1787609852172,
+    "title": "Church of the living God alley Mural",
+    "address": "2222 Postoffice street Galveston, TX 77550 ",
+    "lat": 29.30475,
+    "lng": -94.79275,
+    "artist": "Gabriel Prusmack ",
+    "bio": "Gabriel Prusmack is a Galveston born artist and muralist known for his vibrant, graffiti influenced work created with aerosol, stencils, and bold color. His murals and mixed-media pieces often explore joy, freedom, nature, and identity, bringing a playful and recognizable energy to public spaces throughout Galveston and beyond.",
+    "website": "https://gabrielprusmack.com/about-me/",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1787609852172.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1787609852172.jpg",
+    "featured": false,
+    "visited": false
   }
 ]
