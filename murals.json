@@ -414,5 +414,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1787605163592.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1787605542462,
+    "title": "Downtown Directional Mural",
+    "address": "150 25th Street Galveston, TX 77550",
+    "lat": 29.3107,
+    "lng": -94.7945,
+    "artist": "Gabriel Prusmack ",
+    "bio": "Gabriel Prusmack is a Galveston-born artist and muralist known for his vibrant, graffiti-influenced work created with aerosol, stencils, and bold color. His murals and mixed-media pieces often explore joy, freedom, nature, and identity, bringing a playful and recognizable energy to public spaces throughout Galveston and beyond.",
+    "website": "https://gabrielprusmack.com/",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1787605542462.jpg",
+    "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1787605542462.jpg",
+    "featured": false,
+    "visited": false
   }
 ]
