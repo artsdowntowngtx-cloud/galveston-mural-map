@@ -430,5 +430,21 @@
     "artistImg": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/artist_1787605542462.jpg",
     "featured": false,
     "visited": false
+  },
+  {
+    "id": 1787609311672,
+    "title": "The Milk Bat @ The Studio Experience",
+    "address": "2327 Winnie Street, Galveston, TX 77550 ",
+    "lat": 29.30239,
+    "lng": -94.7938,
+    "artist": "Pete Morales ",
+    "bio": "Peter Morales, known as Primitive Pete Painting, is recognized for his colorful, expressive style and distinctive approach to painting. His work reflects the character, creativity, and eclectic spirit of island life.",
+    "website": "https://studio-experience.com/product-category/art/peter-morales/?fbclid=IwY2xjawT5nuBwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMTdYWWdRMlY2dE9tYjcxVzlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeaTNohZO9V4I4TEAMb4lroxQWm6nU3dybMvqluosyStdHn4xSGJbuuYGcs0o_aem_1MXYLP4jjTOuIvsZb5e8wQ",
+    "year": 2026,
+    "desc": "",
+    "img": "https://artsdowntowngtx-cloud.github.io/galveston-mural-map/images/mural_1787609311672.jpg",
+    "artistImg": "",
+    "featured": false,
+    "visited": false
   }
 ]
